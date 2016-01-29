@@ -1,0 +1,17 @@
+No esta inscripto
+0
+
+David, Hernandez||Sergio, Veredas||Victor, Lopez||
+David,HernandezProgramacion:6,8,7,6,
+Entornos de Desarrollo:5,4,8,4,
+FOL:5,6,8,7,
+
+Sergio,VeredasProgramacion:6,8,7,6,
+Entornos de Desarrollo:5,4,8,4,
+FOL:5,6,8,7,
+
+Victor,LopezProgramacion:6,8,7,6,
+Entornos de Desarrollo:5,4,8,4,
+FOL:5,6,8,7,
+
+7.0

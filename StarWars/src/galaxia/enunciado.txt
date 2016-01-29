@@ -1,0 +1,36 @@
+Ejercicio1. (5 ptos).
+Hace mucho tiempo, en una galaxia muy, muy lejana... 
+miles de planetas y satélites habitados por diferentes criaturas y 
+civilizaciones se agrupaban bajo el gobierno de la República Galáctica.
+
+En ella, la orden de Caballeros Jedi, guerreros poderosos adiestrados en el 
+conocimiento de la fuerza y en el uso de las estructuras dinámicas de 
+información, eran los encargados de velar por la paz y el orden.
+
+Los Jedi provenían de los diferentes sistemas pertenecientes a la República, e 
+incluso de algunos otros que se encontraban más allá del límite exterior, 
+siendo instruidos desde niños hasta que alcanzaban el rango de Caballeros. 
+Sólo aquellos que demostraban una gran valentía y un mayor control y 
+administración de la memoria, llegaban con el tiempo a convertirse en miembros del
+Consejo, adquiriendo entonces el rango de Maestro, pudiendo realizar entre 
+otras funciones la de convertir un Padawan en Caballero.
+
+En tiempos en los que el maestro Yoda no sabía ni hacer arrays de objetos, 
+el que era en ese momento Jefe del Consejo, decidió crear un gran sistema 
+dinámico de almacenamiento, en el que registrar la información referente a 
+todos los miembros de la orden, con su nombre, especie a la que pertenecían, 
+planeta de origen, rango, edad y nivel de midiccionarios.
+Al mismo tiempo, se guardarían también los datos de los aprendices 
+(también conocidos como Padawans), incluyendo además para cada uno quién era 
+su maestro o instructor. Los padawans no tienen nivel de midiccionarios 
+hasta que no se convierten en Caballeros.
+
+Para el siguiente supuesto, exponga:
+
+• La estructura dinámica de información que permitirá generar el sistema de 
+control de los Caballeros Jedi. (1 punto)
+• Funciones que permitan a través de un menú: (4 puntos)
+• Añadir un caballero al sistema.
+• Eliminar un caballero del sistema (por nombre).
+• Convertir un padawan en Caballero (por nombre).
+• Imprimir el nombre de todos los Maestros del sistema.
